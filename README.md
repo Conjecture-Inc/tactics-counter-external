@@ -1,4 +1,4 @@
-# Dragon Slayer Adventure Template
+# Counter example
 
 A simple example of how to use the Tactics API to create simple counter application.
 
